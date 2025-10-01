@@ -19,7 +19,7 @@ We explore the tradeoff theoretically and empirically using both **synthetic** a
 ## 🚀 Getting Started
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/bias-variance-tradeoff.git
+git clone (https://github.com/viraajsharma/bias-variance-tradeoff.git)
 cd bias-variance-tradeoff
 
 # Create environment
